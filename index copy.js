@@ -8,3 +8,5 @@ for (let i = 0; i < weekDays.length; i++) {
 }
 
 calendar.innerHTML = `<tr>${calHeader}</tr>`
+123123
+456456
